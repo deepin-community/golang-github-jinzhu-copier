@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-jinzhu-copier (0.3.2-2) unstable; urgency=medium
 
-  * Initial release
+  * update standards version
+  * Bump standards version
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Reinhard Tartler <siretart@tauware.de>  Mon, 30 Aug 2021 11:43:01 +0200
+
+golang-github-jinzhu-copier (0.3.2-1) unstable; urgency=medium
+
+  * Initial release (Closes: #989515)
+
+ -- Reinhard Tartler <siretart@tauware.de>  Sat, 05 Jun 2021 23:43:07 -0400
